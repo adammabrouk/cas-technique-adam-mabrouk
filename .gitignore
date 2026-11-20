@@ -1,0 +1,10 @@
+# Données : ne JAMAIS les committer (taille + licence)
+data/
+cache/
+*.tgz
+*.npz
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
